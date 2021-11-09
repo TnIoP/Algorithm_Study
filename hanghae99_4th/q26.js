@@ -1,12 +1,9 @@
 function solution(arr) {
     var answer = [];
-    var num = 0;
-    for(let i=0; i<arr.length; i++){
-        if(num == 0)
-            num = arr[i];
+    var num = arr[0];
+    for(let i=1; i<arr.length; i++)
         if(arr[[i]] < num)
             num = arr[i];
-    }
     for(let i=0; i<arr.length; i++){
         if(arr[i] == num){
             arr.splice(i,1);
