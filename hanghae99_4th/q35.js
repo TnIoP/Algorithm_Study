@@ -4,7 +4,7 @@ function solution(strings, n) {
             return 1;
         if(a[n] < b[n])
             return -1;
-        if(a[n] === b[n]){ // 두번째 글자가 같을 경우 사전식 정렬
+        if(a[n] === b[n]){ // n번째 인덱스 글자가 같을 경우 사전식 정렬
             if(a > b)
                 return 1;
             if(a < b)
