@@ -14,8 +14,7 @@ pNum[1] = false;
 
 for (let i = 2; i <= parseInt(Math.sqrt(MAX)); i++)
   for (let j = 2; i * j <= MAX; j++)
-    if (pNum[i * j] != false)
-        pNum[i * j] = false;
+    pNum[i * j] = false;
 
 for (let i = 0; i < input.length; i++) {
   low = Number(input[i]);
