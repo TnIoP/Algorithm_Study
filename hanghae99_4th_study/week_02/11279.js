@@ -1,5 +1,5 @@
 const fs = require("fs");
-const input = fs.readFileSync("/dev/stdin").toString().split("\n");
+const input = fs.readFileSync("ex.txt").toString().split("\n");
 
 const TESTCASE = input[0];
 let temp = [];
