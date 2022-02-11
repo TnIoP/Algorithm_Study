@@ -1,5 +1,8 @@
 const fs = require('fs');
-const input = fs.readFileSync('javascript/ing/ex.txt').toString().split('\n');
+const input = fs
+    .readFileSync('Baekjoon/javascript/ing/ex.txt')
+    .toString()
+    .split('\n');
 
 const TESTCASE = input[0];
 let temp = [];
