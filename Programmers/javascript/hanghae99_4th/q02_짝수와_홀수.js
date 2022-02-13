@@ -1,8 +1,7 @@
 function solution(num) {
-    var answer = '';
-    if (num % 2 == 0) answer = 'Even';
-    else answer = 'Odd';
+    var answer = "Odd";
+    if(num%2 == 0)
+        answer = "Even";
+   
     return answer;
 }
-
-console.log(solution(5));

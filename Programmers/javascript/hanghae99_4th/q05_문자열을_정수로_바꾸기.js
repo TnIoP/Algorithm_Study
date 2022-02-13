@@ -1,7 +1,3 @@
 function solution(s) {
-    var answer = 0;
-    answer = parseInt(s);
-    return answer;
+    return parseInt(s);
 }
-
-console.log(solution('123'));
