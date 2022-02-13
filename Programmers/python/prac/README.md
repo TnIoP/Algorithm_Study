@@ -1,7 +1,4 @@
-# 항해99 4기 2주차 알고리즘 문제풀이(Programmers )
-> 항해99 4기 2주차 알고리즘 문제풀이(Programmers)를 위한 폴더입니다.
-
-## Marathon 문제
+# 
 - q01 https://programmers.co.kr/learn/courses/30/lessons/12969
 - q02 https://programmers.co.kr/learn/courses/30/lessons/12937
 - q03 https://programmers.co.kr/learn/courses/30/lessons/12903
@@ -42,8 +39,6 @@
 - q38 https://programmers.co.kr/learn/courses/30/lessons/81301
 - q39 https://programmers.co.kr/learn/courses/30/lessons/12926
 - q40 https://programmers.co.kr/learn/courses/30/lessons/72410
-
-## Challenge 문제
 - q41 https://programmers.co.kr/learn/courses/30/lessons/77884
 - q42 https://programmers.co.kr/learn/courses/30/lessons/12928
 - q43 https://programmers.co.kr/learn/courses/30/lessons/12982
