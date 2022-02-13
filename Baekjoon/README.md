@@ -1,4 +1,2 @@
-# Baekjoon_Algorithm
-> Baekjoon_Algorithm repo
-
+# Baekjoon
 https://www.acmicpc.net/

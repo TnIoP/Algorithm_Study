@@ -1,4 +1,2 @@
-# Programmers_Algorithm
-> Programmers_Algorithm repo
-
+# Programmers
 https://programmers.co.kr/
