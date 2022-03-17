@@ -14,8 +14,6 @@ while low <= high:
             temp += t - mid
     if temp < m:
         high = mid - 1
-    elif temp > m:
-        low = mid + 1
     else:
-        break
+        low = mid + 1
 print(high)
